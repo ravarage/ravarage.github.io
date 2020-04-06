@@ -12,6 +12,9 @@ table {
 
 
 h1 {color: white;text-decoration:underline; text-shadow: 1px 1px red;text-align: center;}
+.clearer   {text-decoration:none; color: whitesmoke; font-size: 15px;}
+.clearer:hover   {text-decoration:none; color: whitesmoke;}
+
 a   {text-decoration:none; color: whitesmoke;text-shadow: 1px 1px blueviolet;font-size: 30px;}
 a:hover {text-decoration:underline;color:red;}
 .Statues {color: whitesmoke;text-shadow: 1px 1px lightblue;}
