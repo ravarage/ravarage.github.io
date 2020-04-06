@@ -7,3 +7,9 @@ h1 {color: white;text-decoration:underline; text-shadow: 1px 1px red;text-align:
 a   {text-decoration:none; color: whitesmoke;text-shadow: 1px 1px blueviolet;font-size: 30px;}
 a:hover {text-decoration:underline;color:red;}
 .Statues {color: whitesmoke;text-shadow: 1px 1px lightblue;}
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
